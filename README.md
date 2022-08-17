@@ -1,7 +1,11 @@
 # Covid_19_data_analysis
 ## Covid - 19 Data analysis using Python - Matplotlib, NumPy, Pandas, Tkinter
 
-## A preview is given below - 
+### DATASET USED :
+
+https://github.com/datasets/covid-19
+
+### A preview is given below - 
 
 ### 1. LOGIN PAGE - 
 Login ID - admin Password - root
@@ -82,9 +86,7 @@ Countries economy , growth in crimes , population rate , affect on
 mental and physical health etc.
 5. Trying to Predict Future Cases values.
 
-### DATA SOURCE :
 
-https://github.com/datasets/covid-19
 
 
 
